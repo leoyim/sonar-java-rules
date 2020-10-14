@@ -2,4 +2,4 @@
 
 This example demonstrates how to write **Custom Rules** for SonarJava.
 
-# Sonar ×Ô¶¨Òå´úÂë¹æÔò
+# Sonar è‡ªå®šä¹‰ä»£ç è§„åˆ™
