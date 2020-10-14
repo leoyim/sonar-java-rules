@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.java:jdt:shaded:6.3.0.21585">
+    <CLASSES>
+      <root url="jar://D:/Develop/apache-maven-3.6.3/repository/org/sonarsource/java/jdt/6.3.0.21585/jdt-6.3.0.21585-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Develop/apache-maven-3.6.3/repository/org/sonarsource/java/jdt/6.3.0.21585/jdt-6.3.0.21585-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Develop/apache-maven-3.6.3/repository/org/sonarsource/java/jdt/6.3.0.21585/jdt-6.3.0.21585-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

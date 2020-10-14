@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.java:java-frontend:6.3.0.21585">
+    <CLASSES>
+      <root url="jar://D:/Develop/apache-maven-3.6.3/repository/org/sonarsource/java/java-frontend/6.3.0.21585/java-frontend-6.3.0.21585.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Develop/apache-maven-3.6.3/repository/org/sonarsource/java/java-frontend/6.3.0.21585/java-frontend-6.3.0.21585-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Develop/apache-maven-3.6.3/repository/org/sonarsource/java/java-frontend/6.3.0.21585/java-frontend-6.3.0.21585-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

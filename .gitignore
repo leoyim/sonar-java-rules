@@ -1,0 +1,5 @@
+target/
+.idea
+.scannerwork/
+.sonar/
+java-custom-rules.iml
