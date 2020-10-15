@@ -32,7 +32,7 @@ public class MyFirstCustomCheck extends IssuableSubscriptionVisitor {
             Type firstParameterType = symbol.parameterTypes().get(0);
             Type returnType = symbol.returnType().type();
             if (returnType.is(firstParameterType.fullyQualifiedName())) {
-                reportIssue(method.simpleName(), "Never do that!");
+                reportIssue(method.simpleName(), "返回类型" + returnType + "和参数类型" + firstParameterType.fullyQualifiedName() + "相同");
             }
         }
     }

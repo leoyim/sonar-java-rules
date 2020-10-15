@@ -1,0 +1,15 @@
+<p>对于具有单个参数的方法，其返回值和其参数的类型永远不能相同</p>
+<h2>反例</h2>
+<pre>
+    int     foo3(int value) { return 0; }
+    MyClass foo5(MyClass value) {return null; }
+</pre>
+<h2>正例</h2>
+<pre>
+    MyClass(MyClass mc) { }
+    int     foo1() { return 0; }
+    void    foo2(int value) { }
+    Object  foo4(int value) { return null; }
+    int     foo6(int value, String name) { return 0; }
+    int     foo7(int ... values) { return 0;}
+</pre>

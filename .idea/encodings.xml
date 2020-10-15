@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sonar/samples/java/checks/MyFirstCustomCheck.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/org/sonar/l10n/java/rules/squid/MyFirstCustomCheck_java.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/org/sonar/l10n/java/rules/squid/MyFirstCustomCheck_java.json" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

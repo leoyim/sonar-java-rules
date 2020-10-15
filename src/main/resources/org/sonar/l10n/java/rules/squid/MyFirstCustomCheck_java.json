@@ -1,0 +1,13 @@
+{
+  "title": "方法的参数和返回类型不应相同",
+  "type": "BUG",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "10min"
+  },
+  "tags": [
+    "type"
+  ],
+  "defaultSeverity": "Critical"
+}
